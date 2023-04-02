@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90bd609b-fbcd-48a5-a52d-d95e3613abec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poleshuk 16/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Poleshuk 16/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Poleshuk_16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Poleshuk 16/.idea/Poleshuk_16.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Poleshuk 16/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Poleshuk 16/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Poleshuk 16/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Poleshuk 16/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="90bd609b-fbcd-48a5-a52d-d95e3613abec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +73,7 @@
       <workItem from="1680332610317" duration="1033000" />
       <workItem from="1680423658374" duration="6822000" />
       <workItem from="1680453262525" duration="1284000" />
-      <workItem from="1680454639572" duration="1574000" />
+      <workItem from="1680454639572" duration="1910000" />
     </task>
     <servers />
   </component>
